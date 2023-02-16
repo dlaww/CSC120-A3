@@ -4,6 +4,9 @@ import java.util.Random;
 
 class Conversation {
 
+/**
+ * @param arguments creates the array of sentences inputed by the user
+ */
   public static void main(String[] arguments) {
     // create an array for the canned responses
     String[] randomResponds = {
